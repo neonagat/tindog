@@ -1,4 +1,4 @@
-# tindog
+# tindog-landing
 
 https://neonagat.github.io/tindog/
 
